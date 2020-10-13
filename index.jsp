@@ -8,10 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>第1个JAVA项目</title>
+    <title>第2个JAVA项目</title>
 </head>
 <body>
-hello world！！！
-small yellow!
+这是我第二个项目
 </body>
 </html>
